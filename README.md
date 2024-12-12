@@ -35,42 +35,128 @@ In this dataset 18 columns and main column is sales.<br>
 ## Charts<br>
 
 1. Which age group contributes the most revenue to the business product category wise?<br>
-![Graph -1](https://github.com/user-attachments/assets/cce62f8a-b604-42b6-b68b-4c221c7cda02)
-The graph shows that **Adults (35-54)** generate the highest revenue across all product categories, with **clothing** being the dominant contributor, followed by **Accessories**. **Young Adults (25-34)** rank second in revenue, while **Youth (<25)** contribute the least. This indicates that marketing efforts should focus on **Adults** and enhancing engagement with the **younger age group**.<br>
+   **Age Group Sales Distribution by Product Category**
+
+   **Description:** This bar chart displays sales values for Accessories and Clothing across two age groups: Adults (35-64) and Youth (<25). It helps identify the core 
+   customer demographic and their product preferences, supporting targeted marketing strategies and refined efforts for youth-focused campaigns.
+
+   ![Graph -1](https://github.com/user-attachments/assets/cce62f8a-b604-42b6-b68b-4c221c7cda02)
+
+   The graph shows that **Adults (35-54)** generate the highest revenue across all product categories, with **clothing** being the dominant contributor, followed by 
+   **Accessories**. **Young Adults (25-34)** rank second in revenue, while **Youth (<25)** contribute the least. This indicates that marketing efforts should focus on 
+   **Adults** and enhancing engagement with the **younger age group**.<br>
 
 2. How has the revenue trended over time compared to profit?<br>
-![Graph -3](https://github.com/user-attachments/assets/bd00d6b9-5ae8-4af3-b02c-01292d6ddbc5)
-The graph shows that revenue is consistently higher than profit over time, with significant fluctuations in both. A notable gap exists between revenue and profit, suggesting high operating costs or expenses. This dynamic environment highlights the need for deeper analysis to identify causes of volatility, manage risks, and leverage periods of growth.<br>
+
+   **Revenue and Profit Trend Over Time**
+
+   **Description:** This line chart illustrates trends in revenue and profit over a specific time period, highlighting fluctuations and divergences between the two metrics. 
+   The chart provides insights into financial performance dynamics, helping to analyze volatility drivers and stabilize profits during revenue fluctuations.
+
+   ![Graph -3](https://github.com/user-attachments/assets/bd00d6b9-5ae8-4af3-b02c-01292d6ddbc5)
+
+   The graph shows that revenue is consistently higher than profit over time, with significant fluctuations in both. A notable gap exists between revenue and profit, 
+   suggesting high operating costs or expenses. This dynamic environment highlights the need for deeper analysis to identify causes of volatility, manage risks, and 
+   leverage periods of growth.<br>
 
 3. How does revenue change over time?<br>
-![Graph -2](https://github.com/user-attachments/assets/cdbebb72-f1dc-49b2-adb7-5cebbe3bbe38)
-Revenue spikes occur periodically without a steady trend, reflecting dynamic customer behavior or event-driven sales. Understanding the drivers of these peaks (e.g., promotions or seasonal demand) can help smooth revenue fluctuations and optimize strategies for periods of lower activity.<br>
+
+   **Revenue Over Time**
+
+   **Description:** This line chart tracks revenue over time, showcasing spikes and fluctuations in customer demand or event-driven sales. The chart identifies drivers 
+   behind revenue spikes, optimizes strategies for low-revenue periods, and smoothens revenue fluctuations for consistent performance.
+
+   ![Graph -2](https://github.com/user-attachments/assets/cdbebb72-f1dc-49b2-adb7-5cebbe3bbe38)
+
+   Revenue spikes occur periodically without a steady trend, reflecting dynamic customer behavior or event-driven sales. Understanding the drivers of these peaks (e.g., 
+   promotions or seasonal demand) can help smooth revenue fluctuations and optimize strategies for periods of lower activity.<br>
 
 4. What are the top 5 sub-categories by profit margins, and how do they compare?<br>
-![Graph -4](https://github.com/user-attachments/assets/d86a96f9-05d6-408f-9d50-ff27dfe7c8b4)
-The key insight is that **Bottles and Cages** lead profit margins **(58.52%)**, followed by **Bike Racks (21.98%)** and **Bike Stands (14.58%)**, while **Cameras and Electronics** are relatively low **(4.92%)**. This indicates the need to focus on the most profitable categories to drive profitability further while exploring opportunities to improve lower-margin products.<br>
+
+   **Product Profit Margin Analysis by Subcategory**
+
+   **Description:** This donut chart displays profit margins for various product subcategories, ranking them from highest to lowest. It enables prioritization of high- 
+   margin products and exploration of opportunities to improve profitability in lower-margin items.
+
+   ![Graph -4](https://github.com/user-attachments/assets/d86a96f9-05d6-408f-9d50-ff27dfe7c8b4)
+
+   The key insight is that **Bottles and Cages** lead profit margins **(58.52%)**, followed by **Bike Racks (21.98%)** and **Bike Stands (14.58%)**, while **Cameras and 
+   Electronics** are relatively low **(4.92%)**. This indicates the need to focus on the most profitable categories to drive profitability further while exploring 
+   opportunities to improve lower-margin products.<br>
 
 5. Which states have the highest sales revenue for the top 6 products?<br>
-![Graph -8](https://github.com/user-attachments/assets/b017d811-acbb-4d4e-a16b-93b3a4be2fa0)
-**California** leads in **product sales**, with **British Columbia** and **England** also showing strong performance. Other states show moderate sales, indicating a need to focus efforts on these top-performing regions and products for better overall revenue.<br>
+
+   **Sales Performance Analysis by Products**
+
+   **Description:** This heat map chart visualizes sales performance by geographic regions, such as California, British Columbia, and England. The chart aids in sustaining 
+   growth in high-performing regions and identifies potential for expansion in underperforming markets.
+   
+   ![Graph -8](https://github.com/user-attachments/assets/b017d811-acbb-4d4e-a16b-93b3a4be2fa0)
+
+   **California** leads in **product sales**, with **British Columbia** and **England** also showing strong performance. Other states show moderate sales, indicating a need 
+   to focus efforts on these top-performing regions and products for better overall revenue.<br>
 
 6. What are the key regions for further investment and growth opportunities?<br>
-![Graph -5](https://github.com/user-attachments/assets/894ac8bb-c8b5-4290-a78d-f3848e73b60d)
-The map highlights Country-wise Profit, with **Canada** and the **United States** showing the highest profitability, followed by select regions in **Europe**. **Asia** and **Oceania** show growth potential, while **South America** and **Africa** contribute minimally. A focus on optimizing top markets, while strategies for expanding in Asia and Oceania, and penetrating low-performing regions, can drive global growth. <br>
+
+   **Country-Wise Revenue**
+
+   **Description:** This map shows the revenue contribution of different countries, providing a comparative analysis of global market performance. It guides resource 
+   allocation in dominant markets while identifying emerging regions and untapped potential for growth.
+
+   ![Graph -5](https://github.com/user-attachments/assets/894ac8bb-c8b5-4290-a78d-f3848e73b60d)
+
+   The map highlights Country-wise Profit, with **Canada** and the **United States** showing the highest profitability, followed by select regions in **Europe**. **Asia** 
+   and **Oceania** show growth potential, while **South America** and **Africa** contribute minimally. A focus on optimizing top markets, while strategies for expanding in 
+   Asia and Oceania, and penetrating low-performing regions, can drive global growth. <br>
 
 7. How do different product types compare in revenue contribution?<br>
-![Graph -10](https://github.com/user-attachments/assets/c97b54f4-636b-4d6c-b220-e39acd76d552)
-This word cloud highlights the top products by revenue, emphasizing items like the **Hitch_Rack_4_Bike** and **AWC_Logo_Cap**, which stand out as major revenue drivers followed by **All_Purpose_Bike_Stand** and **Mountain_Bottle_Cage**.<br>
+
+   **Top Product by Revenue**
+
+   **Description:** This word cloud chart ranks products by the revenue they generate, highlighting the best and worst-performing items. The chart informs resource 
+   allocation for top-performing products and identifies areas for improvement in pricing or demand for underperforming items.
+   
+   ![Graph -10](https://github.com/user-attachments/assets/c97b54f4-636b-4d6c-b220-e39acd76d552)
+
+   This word cloud highlights the top products by revenue, emphasizing items like the **Hitch_Rack_4_Bike** and **AWC_Logo_Cap**, which stand out as major revenue drivers 
+   followed by **All_Purpose_Bike_Stand** and **Mountain_Bottle_Cage**.<br>
 
 8. What is the Country wise Ordered Quantity?<br>
-![Graph -9 (1)](https://github.com/user-attachments/assets/a73927e5-5caf-4eaa-b131-96f99e67b02b)
-The **United States** leads in order quantity **(109,830 units)**, followed by Australia (61,395 units). While maintaining dominance in the U.S., strategies to boost sales in underperforming regions like Germany and "Others" could unlock additional growth potential..<br>
+
+   **Country-Wise Order Quantity**
+
+   **Description:** This waffle chart displays order quantities by country, comparing sales volumes across different regions. It strengthens sales efforts in leading 
+   markets and identifies opportunities to boost demand in underperforming regions for broader penetration.
+      
+   ![Graph -9 (1)](https://github.com/user-attachments/assets/a73927e5-5caf-4eaa-b131-96f99e67b02b)
+
+   The **United States** leads in order quantity **(109,830 units)**, followed by Australia (61,395 units). While maintaining dominance in the U.S., strategies to boost 
+   sales in underperforming regions like Germany and "Others" could unlock additional growth potential.<br>
 
 9. What proportion of total revenue is contributed by profit, and how does the average unit cost compare to the average unit price?<br>
-![Graph -6](https://github.com/user-attachments/assets/dc4ff53f-050d-46be-a9b0-6a0da63e912e)
-![Graph -7](https://github.com/user-attachments/assets/5d798dc7-17e0-4032-9d9e-d70f2698daf2)
-Profit constitutes **50.3%** of total revenue **($1.39M of $2.75M)**, indicating a healthy profit margin.<br>
-With an average unit cost of **$5.76** making up **42.7%** of the average unit price **($13.50)**, the business maintains a strong profit margin.<br>
+
+   **Profit as a Part of Revenue**
+
+   **Description:** This gauge chart illustrates the proportion of profit within total revenue, showcasing overall profit margin efficiency. It evaluates cost management 
+   effectiveness, supports reinvestment decisions, and informs pricing strategies to maintain profitability.
+   
+   ![Graph -6](https://github.com/user-attachments/assets/dc4ff53f-050d-46be-a9b0-6a0da63e912e)
+
+   Profit constitutes 50.3% of total revenue ($1.39M of $2.75M), indicating a healthy profit margin. This reflects efficient cost management, offering opportunities to 
+   reinvest profits strategically for growth, optimize costs further, or develop sustainable pricing models to maintain profitability.
+   
+10. What proportion of total revenue is contributed by profit, and how does the average unit cost compare to the average unit price?<br>
+
+    **Average Unit Cost as a Part of Average Unit Price**
+
+    **Description:** This gauge chart compares the average unit cost with the average unit price, showing their relationship and cost-to-price ratio. The chart evaluates 
+    pricing strategies, highlighting areas for cost reduction and ensuring competitive yet profitable pricing structures.
+
+    ![Graph -7](https://github.com/user-attachments/assets/5d798dc7-17e0-4032-9d9e-d70f2698daf2)
+
+    With an average unit cost of $5.76 making up 42.7% of the average unit price ($13.50), the business maintains a strong profit margin. This cost structure allows 
+    competitive pricing while sustaining profitability. Strategic cost reductions or price adjustments could further enhance margins.
+
 
 ## Managerial Insights<br>
 - Customer-Centric Marketing and Engagement<br>
