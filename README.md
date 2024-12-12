@@ -35,6 +35,7 @@ In this dataset 18 columns and main column is sales.<br>
 ## Charts<br>
 
 1. Which age group contributes the most revenue to the business product category wise?<br>
+
    **Age Group Sales Distribution by Product Category**
 
    **Description:** This bar chart displays sales values for Accessories and Clothing across two age groups: Adults (35-64) and Youth (<25). It helps identify the core 
@@ -46,7 +47,7 @@ In this dataset 18 columns and main column is sales.<br>
    **Accessories**. **Young Adults (25-34)** rank second in revenue, while **Youth (<25)** contribute the least. This indicates that marketing efforts should focus on 
    **Adults** and enhancing engagement with the **younger age group**.<br>
 
-2. How has the revenue trended over time compared to profit?<br>
+3. How has the revenue trended over time compared to profit?<br>
 
    **Revenue and Profit Trend Over Time**
 
@@ -59,7 +60,7 @@ In this dataset 18 columns and main column is sales.<br>
    suggesting high operating costs or expenses. This dynamic environment highlights the need for deeper analysis to identify causes of volatility, manage risks, and 
    leverage periods of growth.<br>
 
-3. How does revenue change over time?<br>
+4. How does revenue change over time?<br>
 
    **Revenue Over Time**
 
@@ -71,7 +72,7 @@ In this dataset 18 columns and main column is sales.<br>
    Revenue spikes occur periodically without a steady trend, reflecting dynamic customer behavior or event-driven sales. Understanding the drivers of these peaks (e.g., 
    promotions or seasonal demand) can help smooth revenue fluctuations and optimize strategies for periods of lower activity.<br>
 
-4. What are the top 5 sub-categories by profit margins, and how do they compare?<br>
+5. What are the top 5 sub-categories by profit margins, and how do they compare?<br>
 
    **Product Profit Margin Analysis by Subcategory**
 
@@ -84,7 +85,7 @@ In this dataset 18 columns and main column is sales.<br>
    Electronics** are relatively low **(4.92%)**. This indicates the need to focus on the most profitable categories to drive profitability further while exploring 
    opportunities to improve lower-margin products.<br>
 
-5. Which states have the highest sales revenue for the top 6 products?<br>
+6. Which states have the highest sales revenue for the top 6 products?<br>
 
    **Sales Performance Analysis by Products**
 
@@ -96,7 +97,7 @@ In this dataset 18 columns and main column is sales.<br>
    **California** leads in **product sales**, with **British Columbia** and **England** also showing strong performance. Other states show moderate sales, indicating a need 
    to focus efforts on these top-performing regions and products for better overall revenue.<br>
 
-6. What are the key regions for further investment and growth opportunities?<br>
+7. What are the key regions for further investment and growth opportunities?<br>
 
    **Country-Wise Revenue**
 
@@ -109,7 +110,7 @@ In this dataset 18 columns and main column is sales.<br>
    and **Oceania** show growth potential, while **South America** and **Africa** contribute minimally. A focus on optimizing top markets, while strategies for expanding in 
    Asia and Oceania, and penetrating low-performing regions, can drive global growth. <br>
 
-7. How do different product types compare in revenue contribution?<br>
+8. How do different product types compare in revenue contribution?<br>
 
    **Top Product by Revenue**
 
@@ -121,7 +122,7 @@ In this dataset 18 columns and main column is sales.<br>
    This word cloud highlights the top products by revenue, emphasizing items like the **Hitch_Rack_4_Bike** and **AWC_Logo_Cap**, which stand out as major revenue drivers 
    followed by **All_Purpose_Bike_Stand** and **Mountain_Bottle_Cage**.<br>
 
-8. What is the Country wise Ordered Quantity?<br>
+9. What is the Country wise Ordered Quantity?<br>
 
    **Country-Wise Order Quantity**
 
@@ -133,7 +134,7 @@ In this dataset 18 columns and main column is sales.<br>
    The **United States** leads in order quantity **(109,830 units)**, followed by Australia (61,395 units). While maintaining dominance in the U.S., strategies to boost 
    sales in underperforming regions like Germany and "Others" could unlock additional growth potential.<br>
 
-9. What proportion of total revenue is contributed by profit, and how does the average unit cost compare to the average unit price?<br>
+10. What proportion of total revenue is contributed by profit, and how does the average unit cost compare to the average unit price?<br>
 
    **Profit as a Part of Revenue**
 
@@ -145,7 +146,7 @@ In this dataset 18 columns and main column is sales.<br>
    Profit constitutes 50.3% of total revenue ($1.39M of $2.75M), indicating a healthy profit margin. This reflects efficient cost management, offering opportunities to 
    reinvest profits strategically for growth, optimize costs further, or develop sustainable pricing models to maintain profitability.
    
-10. What proportion of total revenue is contributed by profit, and how does the average unit cost compare to the average unit price?<br>
+11. What proportion of total revenue is contributed by profit, and how does the average unit cost compare to the average unit price?<br>
 
     **Average Unit Cost as a Part of Average Unit Price**
 
